@@ -14,5 +14,14 @@
   "dependencies": {
     "express": "^4.14.0",
     "socket.io": "^1.7.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoktox/Realtime-Temperature-Monitoring.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aoktox/Realtime-Temperature-Monitoring/issues"
+  },
+  "homepage": "https://github.com/aoktox/Realtime-Temperature-Monitoring#readme"
 }
