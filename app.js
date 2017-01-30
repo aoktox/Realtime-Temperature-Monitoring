@@ -20,10 +20,10 @@ io.on('connection',function (socket) {
     });
 });
 
-http.listen(app.get('port'), app.get('ipaddr'), function(){
+/*http.listen(app.get('port'), app.get('ipaddr'), function(){
     console.log('Express server listening on  IP: ' + app.get('ipaddr') + ' and port ' + app.get('port'));
-});
-// http.listen(80);
+});*/
+http.listen(3000);
 // http.listen(3000,function () {
 //     console.log('App start on port 3000');
 // });
